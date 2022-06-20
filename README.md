@@ -7,7 +7,7 @@ It was developed during the summer of 2021 as an exam assignment for the "Gamepl
 
 This "base" was offered to us since the actual challenge and goal of this project was to develop a skillful bot using a very limited scope of environmental information. All that the bot can access is which objects/enemies enter its short view-cone - and it can only access the target's information WHILE inside the cone. An example of the type of challenges that come with this limitation is, in an hypothetical scenario, if the bot is out of bullets and fleeing an enemy, as soon as direct eye-contact is broken, the bot can no longer know the zombie's position - it has to instead guess the direction in which it should run according to the zombie's last percieved position, velocity and direction.
 
-That being said, the AI's not only capable of fleeing - it also collects resources, manages its personal inventory, uses healing items, aims and shoots at enemies (keeping track of ammunition), seeks refuge in closed spaces such as houses, and acts accordingly when faced with an environmental hazard (aka, "killzones").
+That being said, the AI's not only capable of fleeing - it also collects resources, manages its personal inventory, uses healing items, aims and shoots at enemies (keeping track of ammunition), seeks refuge in closed spaces such as houses, and acts accordingly when faced with an environmental hazard (aka, "killzones"). It's movement also switches between multiple steering behaviours - including, but not limited to, Facing, Seeking, Fleeing, Wandering and Chasing (seeking/fleeing while predicting the target's velocity).
 
 
 <br />
