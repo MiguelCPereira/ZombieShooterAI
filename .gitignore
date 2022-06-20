@@ -1,0 +1,14 @@
+# Ignore everything in repository root 
+/*
+
+# Files to not ignore
+!/.gitignore
+!/README.md
+
+# Folders to not ignore
+!/Build/
+
+# Folders to ignore only partially
+!/Source
+/Source/project/.vs/
+/Source/project/_Temp/
