@@ -4,6 +4,7 @@
 # Files to not ignore
 !/.gitignore
 !/README.md
+!/Showcase Thumbnail.png
 
 # Folders to not ignore
 !/Build/
