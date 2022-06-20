@@ -10,4 +10,8 @@ This "base" was offered to us since the actual challenge and goal of this projec
 That being said, the AI's not only capable of fleeing - it also collects resources, manages its personal inventory, uses healing items, aims and shoots at enemies (keeping track of ammunition), seeks refuge in closed spaces such as houses, and acts accordingly when faced with an environmental hazard (aka, "killzones").
 
 
+<br />
+<br />
+
+
 [![Showcase](https://github.com/MiguelCPereira/ZombieShooterAI/blob/main/Showcase%20Thumbnail.png)](http://www.youtube.com/watch?v=wSMjNpLahuo "Zombie Shooter AI Showcase")
